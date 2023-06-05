@@ -1,0 +1,10 @@
+Images/1.jpg | сон
+Images/2.jpg | книги
+Images/3.jpg | снег
+Images/4.jpg | косяк
+Images/5.jpg | массаж
+Images/6.jpg | ракета
+Images/7.jpg | музыка
+Images/8.jpg | ягоды
+Images/9.jpg | тяжелый
+Images/10.jpg| рефлекция

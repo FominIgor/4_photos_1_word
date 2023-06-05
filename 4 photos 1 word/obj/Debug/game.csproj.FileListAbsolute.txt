@@ -1,0 +1,11 @@
+C:\Users\Игорь\Desktop\Приложение-викторина C#\game\game\obj\Debug\game.csproj.AssemblyReference.cache
+C:\Users\Игорь\Desktop\Приложение-викторина C#\game\game\obj\Debug\game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Игорь\Desktop\Приложение-викторина C#\game\game\obj\Debug\FourPhotosOneWordGame.MainForm.resources
+C:\Users\Игорь\Desktop\Приложение-викторина C#\game\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\Игорь\Desktop\Приложение-викторина C#\game\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\Users\Игорь\Desktop\Приложение-викторина C#\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Desktop\Приложение-викторина C#\game\game\bin\Debug\game.exe.config
+C:\Users\Игорь\Desktop\Приложение-викторина C#\game\game\bin\Debug\game.exe
+C:\Users\Игорь\Desktop\Приложение-викторина C#\game\game\bin\Debug\game.pdb
+C:\Users\Игорь\Desktop\Приложение-викторина C#\game\game\obj\Debug\game.exe
+C:\Users\Игорь\Desktop\Приложение-викторина C#\game\game\obj\Debug\game.pdb
